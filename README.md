@@ -2,7 +2,7 @@
 
 A production-ready, full-stack Netflix clone built with the MERN stack, featuring user authentication, video streaming, and dynamic content filtering.
 
-🔗 **Live Demo:** [https://netflix-clone-yourname.vercel.app](https://your-deployed-url)
+
 
 ## 🎯 Project Overview
 
@@ -75,7 +75,7 @@ netflix-clone/
 
 ### Installation
 
-1. **Clone the repository** - git clone https://github.com/yourusername/netflix-clone.git
+1. **Clone the repository** - https://github.com/Drakeremoray13/netflix-clone
 cd netflix-clone
 
 2. **Backend Setup** - cd backend
@@ -95,7 +95,11 @@ npm start
 - Frontend: `http://localhost:3000`
 - Backend API: `http://localhost:5000`
 
-## 🔐 Demo Credentials
+## 🔐 Demo 
+<img width="1440" height="900" alt="2" src="https://github.com/user-attachments/assets/bf2df85d-5132-48f6-8530-0b64d69a4088" />
+<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/a727ff44-422a-4566-9826-bfc2d94a912f" />
+
+
 
 - Username: `admin`
 - Password: `admin`
@@ -137,9 +141,9 @@ npm start
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: https://github.com/Drakeremoray13
+- LinkedIn: https://www.linkedin.com/in/puneeth-botcha-622255253/
+
 
 ## 📄 License
 
