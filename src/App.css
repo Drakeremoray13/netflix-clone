@@ -1,0 +1,7 @@
+.movie-card:hover .movie-poster {
+  transform: scale(1.05);
+}
+
+.movie-card:hover .play-icon {
+  opacity: 1 !important;
+}
